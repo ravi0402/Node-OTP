@@ -1,0 +1,26 @@
+.feed{
+			margin-left: 100px;
+			margin-right: 100px;
+			margin-top: 50px;
+		}
+.feed h3{
+	   border: 1px solid #333;
+		 padding:20px;
+		}
+.page-title{
+		margin-left: 100px;
+		}
+.new-post{
+	border: 1px solid #333;
+	padding:20px;
+	width: 100%;
+}
+.lol{
+	margin-left: 275px;
+}
+.author{
+	margin-left: 40px;
+	font-style:italic;
+	font-size: 15px;
+	font-family: sans-serif;
+}
